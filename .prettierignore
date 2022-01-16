@@ -1,0 +1,8 @@
+# Ignore artifacts
+build
+coverage
+nyc_output
+test
+
+# Add this one back in later on
+*.html

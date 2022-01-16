@@ -1,0 +1,5 @@
+{
+  "comment": "The 'require' here means '--require ./register.js' is not needed on the command line",
+  "require": "./register.js",
+  "reporter": "dot"
+}
